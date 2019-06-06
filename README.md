@@ -18,6 +18,10 @@
 
 新建章节后，页眉需要“取消连接到前一节页眉”，并根据章节标题进行相应修改。
 
+## 寻求帮助
+
+欢迎在[Issues](https://github.com/NEUAI/neuthesis-bachelor-msword/issues)界面留言，我将尽量及时回复。
+
 ## 参考资料
 
 * [附件：东北大学本科生毕业设计（论文）书写印制规范](https://aao.neu.edu.cn/news.html?newsId=1026)
