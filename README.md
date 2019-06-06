@@ -1,26 +1,13 @@
 # 东北大学本科生毕业设计（论文）模板
 
-## 说明
+本Repo为自制模版，并非学校或学院官方提供，敬请留意！
 
-自制“东北大学本科生毕业设计（论文）模板”，非官方提供。
+如需LaTeX模版，请访问[NEUAI/neuthesis-bachelor](https://github.com/NEUAI/neuthesis-bachelor)。
 
-## 使用方法
+## 使用帮助
 
-直接双击即可在该模板的基础上新建Word文档。
-
-使用时，目录可以通过点击“更新目录”按钮更新。
-
-插入新章节请添加“分节分页符”。
-
-三级标题可以分别使用“标题1”、“标题2”、“标题3”模板。
-
-正文可以使用“正文”模板。
-
-新建章节后，页眉需要“取消连接到前一节页眉”，并根据章节标题进行相应修改。
-
-## 寻求帮助
-
-欢迎在[Issues](https://github.com/NEUAI/neuthesis-bachelor-msword/issues)界面留言，我将尽量及时回复。
+1. 访问本Repo的[Wiki](https://github.com/NEUAI/neuthesis-bachelor-msword/wiki)界面。
+2. 在[Issues](https://github.com/NEUAI/neuthesis-bachelor-msword/issues)界面留言。
 
 ## 参考资料
 
